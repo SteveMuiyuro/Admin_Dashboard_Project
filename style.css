@@ -22,7 +22,7 @@ body {
 }
 
 .dashboard {
-  background-color: rgb(34, 150, 204);
+  background-color: #06b6d4;
   grid-row: 1 / -1;
   border-color: aliceblue;
   display: grid;
@@ -177,7 +177,7 @@ body {
 button {
   color: white;
   font-weight: bold;
-  background-color: rgb(34, 150, 204);
+  background-color: #06b6d4;
   width: 6rem;
   height: 2.5rem;
   border-radius: 20px;
