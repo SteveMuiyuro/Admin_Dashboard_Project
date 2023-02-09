@@ -1,0 +1,1 @@
+This project is part of the odin project curriculum designed to evaluate the understanding and application of Grid and flex properties in building a responsiv website.
